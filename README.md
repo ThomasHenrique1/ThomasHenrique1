@@ -13,7 +13,7 @@ Olá! Sou **Thomas Henrique**, um desenvolvedor Full Stack apaixonado por tecnol
 
 ## 🌐 Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Tecnologias Front-end" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Tecnologias Front-end" />
 
 ## ⚙️ Back-end
 
