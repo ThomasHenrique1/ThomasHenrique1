@@ -66,8 +66,6 @@ Olá! Sou **Thomas Henrique**, um desenvolvedor Full Stack apaixonado por tecnol
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomashenrique1&layout=compact&hide_border=true&title_color=58A6FF&text_color=fff&bg_color=ffffff00" alt="Thomas Most Used Languages" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=thomashenrique1&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&dates=fff&background=ffffff00&sideLabels=58A6FF&sideNums=fff&currStreakNum=fff&ring=58A6FF&fire=ff0000&currStreakLabel=1F6FEB" alt="GitHub Streak" />
-
 </div>
 
 ---
